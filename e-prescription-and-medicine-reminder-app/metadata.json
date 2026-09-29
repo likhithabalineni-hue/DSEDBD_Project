@@ -1,6 +1,0 @@
-{
-  "name": "E-Prescription and Medicine Reminder App",
-  "description": "Digital healthcare solution for electronic prescriptions, medicine reminders, refill scheduling, caregiver SMS alerts with alternate phone numbers, adherence tracking, and SQL database management.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
